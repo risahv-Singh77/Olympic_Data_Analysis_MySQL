@@ -23,12 +23,22 @@ To set up and run the project locally:
 
 ## SQL Queries
 
-Some of the key queries include:
-1. **Top Medal-Winning Countries**: Identifies the countries with the highest medal counts across different years.
-2. **Gender Participation Trends**: Analyzes the representation of male and female athletes over time.
-3. **Event Analysis**: Determines the most popular sports/events and the number of participants.
-4. **Athlete Insights**: Provides information on top-performing athletes by medals won.
+Questions Answered in the project:
 
+1. How many olympics games have been held?
+2. List down all Olympics games held so far.
+3. Mention the total no of nations who participated in each olympics game?
+4. Which year saw the lowest no of countries participating in olympics.
+5. Which year saw the highest no of countries participating in olympics.
+6. Which regions have participated in the most distinct Olympic games, and how many games has each participated in?
+7. Fetch the total no of sports played in each olympic games.
+8. Fetch oldest athletes to win a gold medal.
+9. Fetch the top 5 athletes who have won the most gold medals.
+10. Fetch the top 5 most successful countries in olympics. Success is defined by no of medals won.
+11. List down total gold, silver and bronze medals won by each country.
+12. In which Sport/event, India has won highest medals.
+13. Break down all olympic games where India won medal for Hockey and how many medals in each olympic games?
+14. Which countries have never won gold medal but have won silver/bronze medals?
 
 ## Usage
 
