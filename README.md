@@ -13,6 +13,14 @@ The primary goals of this project are:
 3. To provide insights into country-wise performance, gender representation, and changes over time.
 
 
+## Setup Instructions
+
+To set up and run the project locally:
+1. Install MySQL and set up a local server.
+2. Import the provided SQL scripts and CSV files to create and populate the database.
+3. Run queries using MySQL Workbench, command-line interface, or any other SQL client.
+
+
 ## SQL Queries
 
 Some of the key queries include:
@@ -21,13 +29,6 @@ Some of the key queries include:
 3. **Event Analysis**: Determines the most popular sports/events and the number of participants.
 4. **Athlete Insights**: Provides information on top-performing athletes by medals won.
 
-
-## Setup Instructions
-
-To set up and run the project locally:
-1. Install MySQL and set up a local server.
-2. Import the provided SQL scripts and CSV files to create and populate the database.
-3. Run queries using MySQL Workbench, command-line interface, or any other SQL client.
 
 ## Usage
 
