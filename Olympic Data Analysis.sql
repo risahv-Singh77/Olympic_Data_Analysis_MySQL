@@ -117,11 +117,3 @@ FROM olympics_history
 Where noc='IND' and sport = 'Hockey' and medal !='NA'
 GROUP by team,sport,games
 ORDER By Total_medals DESC;
-
-
-
-
-
-SELECT * FROM olympics_history;
-SELECT * FROM olympics_history_noc_regions
-WHERE region = 'INDIA';
