@@ -16,9 +16,9 @@ The primary goals of this project are:
 ## Setup Instructions
 
 To set up and run the project locally:
-1. Install MySQL and set up a local server.
-2. Import the provided SQL scripts and CSV files to create and populate the database.
-3. Run queries using MySQL Workbench, command-line interface, or any other SQL client.
+- Install MySQL and set up a local server.
+- Import the provided SQL scripts and CSV files to create and populate the database.
+- Run queries using MySQL Workbench, command-line interface, or any other SQL client.
 
 
 ## SQL Queries
