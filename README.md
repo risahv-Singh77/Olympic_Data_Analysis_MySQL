@@ -8,9 +8,9 @@ This project involves analyzing Olympic data using MySQL. The dataset covers var
 
 The primary goals of this project are:
    
-1. To perform data exploration on Olympic data.
-2. To analyze and visualize trends in athlete participation, medal counts, and event performances.
-3. To provide insights into country-wise performance, gender representation, and changes over time.
+- To perform data exploration on Olympic data.
+- To analyze and visualize trends in athlete participation, medal counts, and event performances.
+- To provide insights into country-wise performance, gender representation, and changes over time.
 
 
 ## Setup Instructions
@@ -43,9 +43,9 @@ Questions Answered in the project:
 ## Usage
 
 Use the SQL queries provided in the project to:
-1. Explore specific Olympic statistics.
-2. Analyze trends across different years or sports.
-3. Generate insights on country and athlete performance.
+- Explore specific Olympic statistics.
+- Analyze trends across different years or sports.
+- Generate insights on country and athlete performance.
 
 
 ## Conclusion
